@@ -1,0 +1,16 @@
+{
+  "name": "server-node.js",
+  "version": "1.0.0",
+  "main": "serve.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "exec": "nodemon BE/serve.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
